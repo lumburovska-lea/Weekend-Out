@@ -2,6 +2,8 @@
 - [ ] toothpaste
 - [ ] sunscreen
 - [ ] hiking boots
+- [ ] blankets
+- [ ] sunglasses 
 - [ ] water bottle
 - [ ] sleeping pad
 - [ ] extrawarm blanket
